@@ -1,0 +1,30 @@
+h1{
+  margin:auto;
+}
+.accordian_item {
+  width: 800px;
+  margin: 10px auto;
+  padding: 10px;
+  /* background-color: rgb(205, 205, 205); */
+  
+}
+.accordian_title{
+  width:100%;
+  padding:15px; 
+  /* margin-bottom: 20px;  */
+  background-color: rgb(244, 245, 247);
+  display: flex;
+  justify-content: space-between;
+}
+
+.accordian_content{
+  /* width:100%; */
+  padding:15px; 
+  height: 100%;
+  margin-bottom: 20px; 
+  background-color: rgb(240, 237, 237);
+}
+
+.right{
+  float: right;
+}
